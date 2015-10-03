@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 
-=======
->>>>>>> 0d8f57eaf498df6e4f9e13d7b0d5dee1cf471a1b
-
-# Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 import os
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
